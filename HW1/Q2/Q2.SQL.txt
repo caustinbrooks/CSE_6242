@@ -1,0 +1,61 @@
+-- initial commands
+.headers off
+.separator ','
+
+-- (a) Import data
+-- [insert sql statement(s) below]
+
+
+-- (b) Build indexes
+-- [insert sql statement(s) below]
+
+
+-- (c) Quick computations.
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (d) Average delay of flights per airline 
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (e) Airlines at each airport
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (f) Percentage of delayed flights
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (g) Creating a view
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (h) Count total pairs 
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (i) Create and import data into FTS table movie_overview.
+-- [insert sql statement(s) below]
+
+
+-- (i) part 1
+-- [insert sql statement(s) below]
+
+
+select '';
+
+-- (i) part 2
+-- [insert sql statement(s) below]
+
