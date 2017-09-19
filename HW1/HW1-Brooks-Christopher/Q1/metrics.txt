@@ -1,0 +1,8 @@
+Average node degree: 1.704
+This means a majority of people who are friends a user are also followers of the user or vice versa.
+
+Diameter of the Graph: 4
+The longest of all the shortest paths has a length of 4.
+
+Average path length: 2.359
+The expected shortest path length between any 2 nodes is 2.359

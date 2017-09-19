@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2191.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1076.000000 -883.000000 2191.000000 1750.000000" height="1750.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 45.931816,241.632126 -335.671875,456.579742 -534.522339,401.027740"
+              class="PoloChau SamForDaWin" stroke-opacity="1.0" stroke="#c8d9bd"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 174.121872,67.333786 246.250748,213.118988 221.698624,285.757019"
+              class="PoloChau severinhacker" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C -59.111656,-72.042282 -127.768982,-485.171417 -12.945042,-645.766907"
+              class="PoloChau albertocairo" stroke-opacity="1.0"
+              stroke="#b0ddaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 243.165924,-11.989685 537.846069,118.376427 592.617432,260.058533"
+              class="PoloChau FisherDanyel" stroke-opacity="1.0"
+              stroke="#e6c896"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C -147.551056,80.289154 -577.364624,-237.001968 -614.872131,-486.036865"
+              class="PoloChau LMNault" stroke-opacity="1.0" stroke="#dfcf96"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C -68.898270,55.565666 -343.647430,-180.831467 -356.431458,-351.213562"
+              class="PoloChau adarrow" stroke-opacity="1.0" stroke="#dfcf96"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C -11.920588,118.584564 -295.731537,62.182289 -371.534454,-51.222130"
+              class="PoloChau JakeP" stroke-opacity="1.0" stroke="#c8d9bd"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 228.762070,65.522964 385.567444,290.552246 362.826141,417.830475"
+              class="PoloChau kimisperros" stroke-opacity="1.0" stroke="#e6c896"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 243.679749,127.314552 330.174255,467.407776 245.641373,609.603699"
+              class="PoloChau Prof_DavidBader" stroke-opacity="1.0"
+              stroke="#c7d79a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 236.171555,-105.199188 660.174438,-125.138870 808.155273,9.548854"
+              class="PoloChau jonfroehlich" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 81.982056,-18.468647 144.604858,-139.596771 205.855164,-159.098541"
+              class="PoloChau ibogost" stroke-opacity="1.0" stroke="#d0d1a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 101.322342,124.292465 -21.186123,246.316437 -102.696930,246.154938"
+              class="PoloChau khusape" stroke-opacity="1.0" stroke="#e6ccaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 181.505096,10.799068 349.510864,82.857071 381.493439,162.878326"
+              class="PoloChau TheNextCorner" stroke-opacity="1.0"
+              stroke="#e6d083"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 145.331955,-31.126087 321.965759,-76.215523 395.873505,-32.367397"
+              class="PoloChau zkancs" stroke-opacity="1.0" stroke="#e6d083"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C -3.500160,-64.802521 0.400108,-383.654755 107.984291,-488.638763"
+              class="PoloChau ddol" stroke-opacity="1.0" stroke="#dfcf96"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 92.035126,-120.463730 322.730164,-379.504852 485.975555,-388.953552"
+              class="PoloChau CptPositive" stroke-opacity="1.0" stroke="#c8d9bd"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 155.029861,119.584244 120.145027,315.107147 43.342449,368.653168"
+              class="PoloChau GTRI" stroke-opacity="1.0" stroke="#c7d79a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 9.380531,14.588074 -86.484055,-165.857300 -58.290462,-257.960602"
+              class="PoloChau kedwards" stroke-opacity="1.0" stroke="#dfcf96"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 127.027016,199.484100 -69.711876,472.852539 -226.414307,498.395721"
+              class="PoloChau goodfellow_ian" stroke-opacity="1.0"
+              stroke="#b3df99"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.483833,42.781662 C 177.368744,189.485046 71.140991,523.367554 -75.562408,599.252441"
+              class="PoloChau dennybritz" stroke-opacity="1.0" stroke="#b3df99"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -371.534454,-51.222130 C -319.181854,-198.388443 -19.903454,-340.609009 127.262856,-288.256378"
+              class="JakeP AndyRichter" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -371.534454,-51.222130 C -347.926788,-6.138333 -380.141022,96.898842 -425.224823,120.506485"
+              class="JakeP jbarlekamp" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -371.534454,-51.222130 C -425.414093,-10.953571 -566.636414,-31.370209 -606.904968,-85.249855"
+              class="JakeP POTUS44" stroke-opacity="1.0" stroke="#daced0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -371.534454,-51.222130 C -398.606079,39.796341 -575.741211,135.716614 -666.759705,108.644981"
+              class="JakeP POTUS" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -534.522339,401.027740 C -670.106873,457.787781 -958.623779,339.551025 -1015.383850,203.966461"
+              class="SamForDaWin maddielee419" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -534.522339,401.027740 C -626.567017,475.053131 -875.672241,448.024170 -949.697632,355.979431"
+              class="SamForDaWin AaronSolender86" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -534.522339,401.027740 C -683.625671,411.609009 -923.152649,203.825882 -933.733887,54.722530"
+              class="SamForDaWin WePlayLean" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -534.522339,401.027740 C -646.254333,318.248749 -689.683960,26.482187 -606.904968,-85.249855"
+              class="SamForDaWin POTUS44" stroke-opacity="1.0" stroke="#daced0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -534.522339,401.027740 C -619.446350,368.998657 -698.788818,193.569016 -666.759705,108.644981"
+              class="SamForDaWin POTUS" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -534.522339,401.027740 C -561.885010,476.220856 -715.718628,547.966553 -790.911743,520.603882"
+              class="SamForDaWin mikeyeps" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.431458,-351.213562 C -329.614044,-428.371490 -173.651062,-503.882294 -96.493149,-477.064880"
+              class="adarrow NASA" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.431458,-351.213562 C -306.956665,-351.522095 -232.281677,-277.772736 -231.973129,-228.297958"
+              class="adarrow NotAltWorld" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.431458,-351.213562 C -365.305084,-401.958649 -302.497925,-491.386688 -251.752853,-500.260315"
+              class="adarrow HalfOnionInABag" stroke-opacity="1.0"
+              stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.431458,-351.213562 C -353.333405,-247.926117 -503.617493,-88.347893 -606.904968,-85.249855"
+              class="adarrow POTUS44" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 245.641373,609.603699 C 302.010406,608.716980 387.894043,691.940369 388.780762,748.309387"
+              class="Prof_DavidBader spacesorceress" stroke-opacity="1.0"
+              stroke="#c0d4b1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 245.641373,609.603699 C 279.222534,654.731506 261.902649,772.794861 216.774872,806.376038"
+              class="Prof_DavidBader brckngh" stroke-opacity="1.0"
+              stroke="#c0d4b1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.290462,-257.960602 C -87.094467,-217.291534 -191.304077,-199.493958 -231.973129,-228.297958"
+              class="kedwards NotAltWorld" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.290462,-257.960602 C -145.442886,-267.728058 -261.520325,-413.107910 -251.752853,-500.260315"
+              class="kedwards HalfOnionInABag" stroke-opacity="1.0"
+              stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 107.984291,-488.638763 C 92.256241,-538.834229 143.957321,-637.719482 194.152771,-653.447510"
+              class="ddol Voxitay" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 107.984291,-488.638763 C 69.403572,-445.428467 -53.282879,-438.484192 -96.493149,-477.064880"
+              class="ddol NASA" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -614.872131,-486.036865 C -659.773743,-455.200745 -773.380310,-476.298981 -804.216492,-521.200562"
+              class="LMNault ericsimons" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -614.872131,-486.036865 C -665.616760,-507.305756 -709.830444,-615.326111 -688.561523,-666.070740"
+              class="LMNault shodoshan" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.945042,-645.766907 C -50.251877,-678.975708 -56.398895,-784.749207 -23.190075,-822.056030"
+              class="albertocairo datavized" stroke-opacity="1.0"
+              stroke="#92e1db"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 592.617432,260.058533 C 644.697266,251.106247 736.245361,315.797546 745.197632,367.877350"
+              class="FisherDanyel ken_hinckley" stroke-opacity="1.0"
+              stroke="#ffb7a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 592.617432,260.058533 C 511.299377,183.697617 503.863708,-52.820835 580.224609,-134.138885"
+              class="FisherDanyel gillianrhayes" stroke-opacity="1.0"
+              stroke="#ffb7a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 808.155273,9.548854 C 855.581665,-41.580280 1003.414917,-47.134407 1054.544067,0.291979"
+              class="jonfroehlich JohnAlexander" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 808.155273,9.548854 C 876.736816,5.226219 986.093201,101.614655 990.415833,170.196243"
+              class="jonfroehlich rameses888" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 808.155273,9.548854 C 807.068604,-58.998867 908.260376,-163.450378 976.808044,-164.536987"
+              class="jonfroehlich rajakushalnagar" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 808.155273,9.548854 C 673.467529,157.529709 249.464676,177.469391 101.483833,42.781662"
+              class="jonfroehlich PoloChau" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.975555,-388.953552 C 458.804016,-439.758331 494.253845,-556.722839 545.058594,-583.894409"
+              class="CptPositive scottOfTheSci" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.975555,-388.953552 C 510.197601,-440.737762 624.206909,-482.081055 675.991150,-457.859039"
+              class="CptPositive jofish" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.975555,-388.953552 C 555.788330,-356.840424 612.337769,-203.951630 580.224609,-134.138885"
+              class="CptPositive gillianrhayes" stroke-opacity="1.0"
+              stroke="#e1c7cf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.975555,-388.953552 C 434.372437,-297.071564 219.144836,-236.653259 127.262856,-288.256378"
+              class="CptPositive AndyRichter" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.975555,-388.953552 C 441.472351,-355.888580 325.120148,-373.045959 292.055176,-417.549164"
+              class="CptPositive bigdata4people" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -425.224823,120.506485 C -448.832489,75.422691 -416.618256,-27.614483 -371.534454,-51.222130"
+              class="jbarlekamp JakeP" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -550.355957,-283.891510 C -468.057800,-273.121948 -360.764893,-133.520309 -371.534454,-51.222130"
+              class="banerjee_mamata JakeP" stroke-opacity="1.0"
+              stroke="#daced0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -949.697632,355.979431 C -857.652954,281.954041 -608.547729,308.983002 -534.522339,401.027740"
+              class="AaronSolender86 SamForDaWin" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1015.383850,203.966461 C -879.799316,147.206421 -591.282410,265.443176 -534.522339,401.027740"
+              class="maddielee419 SamForDaWin" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -933.733887,54.722530 C -784.630554,44.141251 -545.103577,251.924377 -534.522339,401.027740"
+              class="WePlayLean SamForDaWin" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -790.911743,520.603882 C -763.549072,445.410767 -609.715454,373.665070 -534.522339,401.027740"
+              class="mikeyeps SamForDaWin" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -451.442139,-581.368286 C -386.409058,-554.339478 -329.402649,-416.246643 -356.431458,-351.213562"
+              class="UXsnack adarrow" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -550.355957,-283.891510 C -525.035461,-336.140808 -408.680786,-376.534058 -356.431458,-351.213562"
+              class="banerjee_mamata adarrow" stroke-opacity="1.0"
+              stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 216.774872,806.376038 C 183.193695,761.248230 200.513611,643.184875 245.641373,609.603699"
+              class="brckngh Prof_DavidBader" stroke-opacity="1.0"
+              stroke="#c0d4b1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 388.780762,748.309387 C 332.411743,749.196106 246.528122,665.972717 245.641373,609.603699"
+              class="spacesorceress Prof_DavidBader" stroke-opacity="1.0"
+              stroke="#c0d4b1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -236.522675,714.500671 C -227.380280,659.258972 -130.804108,590.109985 -75.562408,599.252441"
+              class="jGage718 dennybritz" stroke-opacity="1.0" stroke="#98e5af"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -90.522911,775.151428 C -122.710602,736.979492 -113.734314,631.440125 -75.562408,599.252441"
+              class="yanis_ameziane dennybritz" stroke-opacity="1.0"
+              stroke="#98e5af"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -358.633667,615.597351 C -305.288391,555.714111 -135.445648,545.907166 -75.562408,599.252441"
+              class="oooskari dennybritz" stroke-opacity="1.0" stroke="#98e5af"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -175.073502,88.283707 C -220.965759,-4.321766 -150.895935,-212.068344 -58.290462,-257.960602"
+              class="naz_andalibi kedwards" stroke-opacity="1.0"
+              stroke="#d8ccad"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.055176,-417.549164 C 253.903763,-315.562317 43.696381,-219.809204 -58.290462,-257.960602"
+              class="bigdata4people kedwards" stroke-opacity="1.0"
+              stroke="#daced0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 525.857849,69.928093 C 515.575012,117.391022 428.956390,173.161163 381.493439,162.878326"
+              class="cammipham TheNextCorner" stroke-opacity="1.0"
+              stroke="#ffc783"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.152771,-653.447510 C 209.880814,-603.252075 158.179733,-504.366821 107.984291,-488.638763"
+              class="Voxitay ddol" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -804.216492,-521.200562 C -759.314880,-552.036743 -645.708313,-530.938477 -614.872131,-486.036865"
+              class="ericsimons LMNault" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -451.442139,-581.368286 C -465.061859,-529.616028 -563.119873,-472.417145 -614.872131,-486.036865"
+              class="UXsnack LMNault" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -688.561523,-666.070740 C -637.816895,-644.801819 -593.603210,-536.781494 -614.872131,-486.036865"
+              class="shodoshan LMNault" stroke-opacity="1.0" stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -550.355957,-283.891510 C -603.688293,-311.417358 -642.397949,-432.704559 -614.872131,-486.036865"
+              class="banerjee_mamata LMNault" stroke-opacity="1.0"
+              stroke="#f1c4a9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 525.857849,69.928093 C 479.401886,75.465866 401.411255,14.088568 395.873505,-32.367397"
+              class="cammipham zkancs" stroke-opacity="1.0" stroke="#ffc783"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.190075,-822.056030 C 14.116760,-788.847229 20.263779,-683.073730 -12.945042,-645.766907"
+              class="datavized albertocairo" stroke-opacity="1.0"
+              stroke="#92e1db"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -236.522675,714.500671 C -277.721985,669.257996 -271.656952,539.595032 -226.414307,498.395721"
+              class="jGage718 goodfellow_ian" stroke-opacity="1.0"
+              stroke="#98e5af"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -90.522911,775.151428 C -173.052322,746.978577 -254.587158,580.925171 -226.414307,498.395721"
+              class="yanis_ameziane goodfellow_ian" stroke-opacity="1.0"
+              stroke="#98e5af"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -358.633667,615.597351 C -355.630127,565.713196 -276.298523,495.392181 -226.414307,498.395721"
+              class="oooskari goodfellow_ian" stroke-opacity="1.0"
+              stroke="#98e5af"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 745.197632,367.877350 C 693.117798,376.829651 601.569702,312.138336 592.617432,260.058533"
+              class="ken_hinckley FisherDanyel" stroke-opacity="1.0"
+              stroke="#ffb7a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.604004,465.802490 C 525.057861,418.050995 544.865967,294.604645 592.617432,260.058533"
+              class="minsukkahng FisherDanyel" stroke-opacity="1.0"
+              stroke="#ffb7a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1054.544067,0.291979 C 1007.117676,51.421112 859.284424,56.975239 808.155273,9.548854"
+              class="JohnAlexander jonfroehlich" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 990.415833,170.196243 C 921.834290,174.518890 812.477905,78.130447 808.155273,9.548854"
+              class="rameses888 jonfroehlich" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 976.808044,-164.536987 C 977.894653,-95.989265 876.703003,8.462238 808.155273,9.548854"
+              class="rajakushalnagar jonfroehlich" stroke-opacity="1.0"
+              stroke="#ceda84"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 675.991150,-457.859039 C 651.769165,-406.074829 537.759766,-364.731537 485.975555,-388.953552"
+              class="jofish CptPositive" stroke-opacity="1.0" stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.058594,-583.894409 C 572.230164,-533.089661 536.780334,-416.125092 485.975555,-388.953552"
+              class="scottOfTheSci CptPositive" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 292.055176,-417.549164 C 336.558380,-450.614136 452.910583,-433.456757 485.975555,-388.953552"
+              class="bigdata4people CptPositive" stroke-opacity="1.0"
+              stroke="#c3d8f7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 245.641373,609.603699 C 156.991470,601.873352 35.612122,457.303040 43.342449,368.653168"
+              class="Prof_DavidBader GTRI" stroke-opacity="1.0" stroke="#c0d4b1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -175.073502,88.283707 C -75.316406,100.674408 55.733150,268.896088 43.342449,368.653168"
+              class="naz_andalibi GTRI" stroke-opacity="1.0" stroke="#c0d4b1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.604004,465.802490 C 510.654022,495.563660 392.587311,466.780426 362.826141,417.830475"
+              class="minsukkahng kimisperros" stroke-opacity="1.0"
+              stroke="#ffb7a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 245.641373,609.603699 C 230.723694,547.812073 301.034546,432.748169 362.826141,417.830475"
+              class="Prof_DavidBader kimisperros" stroke-opacity="1.0"
+              stroke="#dfc5ac"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ceda84" r="119.81787" cx="101.48383"
+                class="PoloChau" cy="42.781662" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="65.75765" cx="-534.52234"
+                class="SamForDaWin" cy="401.02774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ceda84" r="66.11948" cx="221.69862"
+                class="severinhacker" cy="285.75702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#92e1db" r="66.11219" cx="-12.945042"
+                class="albertocairo" cy="-645.7669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb7a8" r="65.88635" cx="592.61743"
+                class="FisherDanyel" cy="260.05853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="65.959206" cx="-614.87213"
+                class="LMNault" cy="-486.03687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="65.62288" cx="-356.43146"
+                class="adarrow" cy="-351.21356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="65.550026" cx="-371.53445"
+                class="JakeP" cy="-51.22213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb7a8" r="68.88781" cx="362.82614"
+                class="kimisperros" cy="417.83047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0d4b1" r="72.22438" cx="245.64137"
+                class="Prof_DavidBader" cy="609.6037" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ceda84" r="120.0" cx="808.1553"
+                class="jonfroehlich" cy="9.548854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d2c8cd" r="66.11948" cx="205.85516"
+                class="ibogost" cy="-159.09854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffbfdb" r="66.11948" cx="-102.69693"
+                class="khusape" cy="246.15494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc783" r="66.11948" cx="381.49344"
+                class="TheNextCorner" cy="162.87833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc783" r="66.11948" cx="395.8735"
+                class="zkancs" cy="-32.367397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="65.88635" cx="107.98429"
+                class="ddol" cy="-488.63876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="68.54541" cx="485.97556"
+                class="CptPositive" cy="-388.95355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0d4b1" r="69.03351" cx="43.34245"
+                class="GTRI" cy="368.65317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="68.58183" cx="-58.290462"
+                class="kedwards" cy="-257.9606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#98e5af" r="66.11948" cx="-226.4143"
+                class="goodfellow_ian" cy="498.39572" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#98e5af" r="66.11948" cx="-75.56241"
+                class="dennybritz" cy="599.25244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="127.262856"
+                class="AndyRichter" cy="-288.25638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="-425.22482"
+                class="jbarlekamp" cy="120.506485" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-606.90497"
+                class="POTUS44" cy="-85.249855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="-666.7597"
+                class="POTUS" cy="108.64498" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="-1015.38385"
+                class="maddielee419" cy="203.96646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="-949.69763"
+                class="AaronSolender86" cy="355.97943" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="-933.7339"
+                class="WePlayLean" cy="54.72253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="-790.91174"
+                class="mikeyeps" cy="520.6039" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-96.49315"
+                class="NASA" cy="-477.06488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-231.97313"
+                class="NotAltWorld" cy="-228.29796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-251.75285"
+                class="HalfOnionInABag" cy="-500.2603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0d4b1" r="60.0" cx="388.78076"
+                class="spacesorceress" cy="748.3094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0d4b1" r="60.0" cx="216.77487"
+                class="brckngh" cy="806.37604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="194.15277"
+                class="Voxitay" cy="-653.4475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-804.2165"
+                class="ericsimons" cy="-521.20056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-688.5615"
+                class="shodoshan" cy="-666.07074" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#92e1db" r="60.0" cx="-23.190075"
+                class="datavized" cy="-822.056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb7a8" r="60.0" cx="745.19763"
+                class="ken_hinckley" cy="367.87735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb7a8" r="60.0" cx="580.2246"
+                class="gillianrhayes" cy="-134.13889" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ceda84" r="60.0" cx="1054.5441"
+                class="JohnAlexander" cy="0.2919793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ceda84" r="60.0" cx="990.41583"
+                class="rameses888" cy="170.19624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ceda84" r="60.0" cx="976.80804"
+                class="rajakushalnagar" cy="-164.53699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="545.0586"
+                class="scottOfTheSci" cy="-583.8944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="60.0" cx="675.99115"
+                class="jofish" cy="-457.85904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c3d8f7" r="62.90675" cx="292.05518"
+                class="bigdata4people" cy="-417.54916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-550.35596"
+                class="banerjee_mamata" cy="-283.8915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f1c4a9" r="60.0" cx="-451.44214"
+                class="UXsnack" cy="-581.3683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#98e5af" r="60.0" cx="-236.52267"
+                class="jGage718" cy="714.5007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#98e5af" r="60.0" cx="-90.52291"
+                class="yanis_ameziane" cy="775.1514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#98e5af" r="60.0" cx="-358.63367"
+                class="oooskari" cy="615.59735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0d4b1" r="60.0" cx="-175.0735"
+                class="naz_andalibi" cy="88.28371" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc783" r="60.0" cx="525.85785"
+                class="cammipham" cy="69.92809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffb7a8" r="60.0" cx="559.604"
+                class="minsukkahng" cy="465.8025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="72" x="101.48383" y="56.10588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PoloChau">
+            PoloChau
+        </text>
+        <text font-size="39" x="-534.52234" y="408.24503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SamForDaWin">
+            SamForDaWin
+        </text>
+        <text font-size="40" x="221.69862" y="293.0324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="severinhacker">
+            severinhacker
+        </text>
+        <text font-size="40" x="-12.945042" y="-638.4915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="albertocairo">
+            albertocairo
+        </text>
+        <text font-size="40" x="592.61743" y="269.32123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="FisherDanyel">
+            FisherDanyel
+        </text>
+        <text font-size="40" x="-614.87213" y="-478.76147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="LMNault">
+            LMNault
+        </text>
+        <text font-size="39" x="-356.43146" y="-344.12006" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="adarrow">
+            adarrow
+        </text>
+        <text font-size="39" x="-371.53445" y="-44.123863" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JakeP">
+            JakeP
+        </text>
+        <text font-size="41" x="362.82614" y="427.20462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="kimisperros">
+            kimisperros
+        </text>
+        <text font-size="43" x="245.64137" y="619.56635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Prof_DavidBader">
+            Prof_DavidBader
+        </text>
+        <text font-size="72" x="808.1553" y="26.441433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jonfroehlich">
+            jonfroehlich
+        </text>
+        <text font-size="40" x="205.85516" y="-149.83585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ibogost">
+            ibogost
+        </text>
+        <text font-size="40" x="-102.69693" y="255.30045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="khusape">
+            khusape
+        </text>
+        <text font-size="40" x="381.49344" y="170.28067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TheNextCorner">
+            TheNextCorner
+        </text>
+        <text font-size="40" x="395.8735" y="-25.092007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zkancs">
+            zkancs
+        </text>
+        <text font-size="40" x="107.98429" y="-481.36337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ddol">
+            ddol
+        </text>
+        <text font-size="41" x="485.97556" y="-379.45428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CptPositive">
+            CptPositive
+        </text>
+        <text font-size="41" x="43.34245" y="376.24057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="GTRI">
+            GTRI
+        </text>
+        <text font-size="41" x="-58.290462" y="-250.50333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="kedwards">
+            kedwards
+        </text>
+        <text font-size="40" x="-226.4143" y="507.7805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="goodfellow_ian">
+            goodfellow_ian
+        </text>
+        <text font-size="40" x="-75.56241" y="608.51514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="dennybritz">
+            dennybritz
+        </text>
+        <text font-size="36" x="127.262856" y="-279.91995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="AndyRichter">
+            AndyRichter
+        </text>
+        <text font-size="36" x="-425.22482" y="128.84291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jbarlekamp">
+            jbarlekamp
+        </text>
+        <text font-size="36" x="-606.90497" y="-78.58335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="POTUS44">
+            POTUS44
+        </text>
+        <text font-size="36" x="-666.7597" y="115.311485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="POTUS">
+            POTUS
+        </text>
+        <text font-size="36" x="-1015.38385" y="210.54507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="maddielee419">
+            maddielee419
+        </text>
+        <text font-size="36" x="-949.69763" y="362.64154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="AaronSolender86">
+            AaronSolender86
+        </text>
+        <text font-size="36" x="-933.7339" y="63.058956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="WePlayLean">
+            WePlayLean
+        </text>
+        <text font-size="36" x="-790.91174" y="528.9403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mikeyeps">
+            mikeyeps
+        </text>
+        <text font-size="36" x="-96.49315" y="-470.40277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="NASA">
+            NASA
+        </text>
+        <text font-size="36" x="-231.97313" y="-221.7501" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="NotAltWorld">
+            NotAltWorld
+        </text>
+        <text font-size="36" x="-251.75285" y="-491.80963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="HalfOnionInABag">
+            HalfOnionInABag
+        </text>
+        <text font-size="36" x="388.78076" y="754.8704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="spacesorceress">
+            spacesorceress
+        </text>
+        <text font-size="36" x="216.77487" y="814.71246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="brckngh">
+            brckngh
+        </text>
+        <text font-size="36" x="194.15277" y="-645.1111" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Voxitay">
+            Voxitay
+        </text>
+        <text font-size="36" x="-804.2165" y="-514.6527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ericsimons">
+            ericsimons
+        </text>
+        <text font-size="36" x="-688.5615" y="-659.5229" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shodoshan">
+            shodoshan
+        </text>
+        <text font-size="36" x="-23.190075" y="-815.5082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="datavized">
+            datavized
+        </text>
+        <text font-size="36" x="745.19763" y="376.21378" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ken_hinckley">
+            ken_hinckley
+        </text>
+        <text font-size="36" x="580.2246" y="-125.80246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gillianrhayes">
+            gillianrhayes
+        </text>
+        <text font-size="36" x="1054.5441" y="6.8442254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JohnAlexander">
+            JohnAlexander
+        </text>
+        <text font-size="36" x="990.41583" y="176.77486" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rameses888">
+            rameses888
+        </text>
+        <text font-size="36" x="976.80804" y="-156.20056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rajakushalnagar">
+            rajakushalnagar
+        </text>
+        <text font-size="36" x="545.0586" y="-577.2279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="scottOfTheSci">
+            scottOfTheSci
+        </text>
+        <text font-size="36" x="675.99115" y="-449.41275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jofish">
+            jofish
+        </text>
+        <text font-size="38" x="292.05518" y="-408.7496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="bigdata4people">
+            bigdata4people
+        </text>
+        <text font-size="36" x="-550.35596" y="-275.55508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="banerjee_mamata">
+            banerjee_mamata
+        </text>
+        <text font-size="36" x="-451.44214" y="-574.81604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="UXsnack">
+            UXsnack
+        </text>
+        <text font-size="36" x="-236.52267" y="722.94696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jGage718">
+            jGage718
+        </text>
+        <text font-size="36" x="-90.52291" y="783.48785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yanis_ameziane">
+            yanis_ameziane
+        </text>
+        <text font-size="36" x="-358.63367" y="622.1452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="oooskari">
+            oooskari
+        </text>
+        <text font-size="36" x="-175.0735" y="96.51466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="naz_andalibi">
+            naz_andalibi
+        </text>
+        <text font-size="36" x="525.85785" y="78.15905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cammipham">
+            cammipham
+        </text>
+        <text font-size="36" x="559.604" y="474.13892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="minsukkahng">
+            minsukkahng
+        </text>
+    </g>
+</svg>

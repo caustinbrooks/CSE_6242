@@ -1,0 +1,28 @@
+###
+c(i)
+919
+
+###
+c(ii)
+value.toDate("yyyy-mm-dd").toString("EEEE, MMMM dd, YYYY")
+
+###
+c(iii)
+nominal - regionalidcounty
+ordinal - buildingqualitytypeid
+
+###
+c(iv)
+
+if(value > 3,true,false)
+###
+c(v)
+value.replace("*","")
+
+###
+c(vi)
+
+I transformed the poolcnt column to a numeric column.
+Then substituted the null values with a count of 0.
+This will help provide a better value for the homes that do not have a pool
+when trying select homes with a specific number of pools.
